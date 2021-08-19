@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Sigmar+One&display=swap');
+
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: radial-gradient(circle at 50.3% 53.45%, #686c59 0, #616854 12.5%, #56614c 25%, #475740 37.5%, #344b32 50%, #203f25 62.5%, #0b361d 75%, #002f19 87.5%, #002c19 100%);
+    color: rgb(52, 165, 52);
+}
+h1{
+    font-family: 'Sigmar One', cursive;
+    font-size: 50px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+
+}
